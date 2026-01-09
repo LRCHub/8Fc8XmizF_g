@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トリコロール・ステップ (あおぎり高校 ver.)",
+  "base_artist": "あおぎり高校",
+  "createdAt": "2026-01-09T13:22:28.486616Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トリコロール・ステップ",
+      "artist": "あおぎり高校",
+      "has_synced": false,
+      "path": "select/pl_01_トリコロール・ステップ_あおぎり高校.txt"
+    }
+  ]
+}
